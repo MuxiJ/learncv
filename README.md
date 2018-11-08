@@ -1,2 +1,2 @@
 # learncv
-An OpenCV3 learning pkg of a workspace based on ros-kinetic 
+For more information: 《OpenCV3编程入门》
